@@ -1,0 +1,56 @@
+
+#header {
+    height: 75px;
+    background-color: darkgoldenrod;
+    
+}
+
+#mapdiv {
+    height: 650px;
+    background-color: salmon;
+   
+}
+
+#side_panel {
+    height: 650px;
+    background-color: beige;    
+}
+
+/* #text-center {
+    margin-bottom: 20px;
+} */
+
+#zoomTooldstate {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+#zoomToharvardUniv {
+    margin-bottom: 10px;
+}
+
+#zoomTomit {
+    margin-bottom: 10px;
+}
+
+#zoomTomTuftsUniv{
+    margin-bottom: 10px;
+}
+
+#zoomToBostonCollege{
+    margin-bottom: 10px;
+}
+
+#zoomTonortheastern {
+    margin-bottom: 10px;
+}
+
+#zoomTobobsonCollege {
+    margin-bottom: 10px;
+}
+
+#footer {
+    height: 75px;
+    background-color: darkgray;
+    
+}
