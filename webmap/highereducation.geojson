@@ -1,0 +1,118 @@
+
+{
+    "type": "FeatureCollection",
+      "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 1,
+          "name": "Harvard University",
+          "image": "Harvard.jpg",
+          "web": "https://en.wikipedia.org/wiki/Harvard_University"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.374444,
+            -71.116944
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 2,
+          "name": "Massachusetts Institute of Technology",
+          "image": "MIT.jpg",
+          "web": "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.091944,
+            42.359722
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 3,
+          "name": "Tufts University",
+          "image": "tufts.jpg",
+          "web": "https://en.wikipedia.org/wiki/Tufts_University"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.12,
+            42.406
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 4,
+          "name": "Boston College",
+          "image": "college.jpg",
+          "web": "https://en.wikipedia.org/wiki/Boston_College"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.170278,
+            42.335
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 5,
+          "name": "Northeastern University",
+          "image": "Northeastern.jpg",
+          "web": "https://en.wikipedia.org/wiki/Northeastern_University"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.088333,
+            42.34
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 6,
+          "name": "Babson College",
+          "image": "Babson.jpg",
+          "web": "https://en.wikipedia.org/wiki/Babson_College"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.261192,
+            42.298231
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 7,
+          "name": "Bentley University",
+          "image": "Bentley.jpg",
+          "web": "https://en.wikipedia.org/wiki/Bentley_University"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.2206,
+            42.3876
+          ]
+        }
+      }
+    ]
+  }
